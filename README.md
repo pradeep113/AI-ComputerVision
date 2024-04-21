@@ -1,2 +1,2 @@
 # AI-ComputerVision
-Practice for AZ-102
+Practice for AI-102
